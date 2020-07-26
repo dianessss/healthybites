@@ -1,2 +1,0 @@
-# healthybites
-GitHub Pages
